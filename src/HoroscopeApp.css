@@ -1,0 +1,97 @@
+#maindiv
+{
+   
+}
+
+#h1
+{
+    text-align: center;
+    font-style: italic;
+    font-family:monospace;
+    color: rgb(32, 42, 68);
+    font-family: fantasy;
+    font-size-adjust:unset;
+}
+#p
+{
+    color: dodgerblue;
+    text-align: center;
+    font-style: italic;
+    color: rgb(32, 42, 68);
+}
+#zodiac
+{
+    background-color: darkcyan;
+    width:250px;
+    height: 450px;
+    
+    float:left;
+    
+}
+#select
+{
+    width:200px;
+    height: 30px;
+    border-radius: 8px;
+    margin:0px 0px 0px 20px;
+}
+#name
+{
+    border-radius: 8px;
+    width: 200px;
+    height: 20px;
+    margin:0px 0px 0px 20px;   
+    border-radius: 8px; 
+}
+#day
+{
+   
+    margin: 20px;
+}
+#mail
+{
+    width: 200px;
+    height: 20px;
+    margin:0px 0px 0px 20px;  
+    border-radius: 8px;  
+}
+#submit
+{
+    width:100px;
+    height: 40px;
+    margin-left: 50px;
+    margin-top: 20px;
+    border-radius: 8px;
+    
+}
+#submit:hover{
+    background-color: aquamarine;
+}
+#namelabel,#zsign,#email
+{
+    margin-left: 18px;
+    margin-bottom: 2px;
+    font-weight: bold;
+}
+#yourname
+{
+    font-weight: bold;
+}
+#selectedzodiac
+{
+    font-weight:bolder;
+    
+}
+#details
+{
+    float: left;
+    width:60%;
+    margin-left:0px;
+    background-color: rgb(173, 198, 230);
+    width: 800px;
+    height: 450px;
+}
+#suni{
+    background-color:rgb(55, 0, 205);
+    background-color:;
+}
